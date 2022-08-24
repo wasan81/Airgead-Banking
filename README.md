@@ -33,7 +33,7 @@ creative and keep the user experience in mind when designing your solution.
 time to see how increases and decreases impact their investment growth
 
 4. Your code will need to account for the following:
-5. 
+ 
 a. Month: The number of months based on user input in the “Number of Years” field
 
 b. Opening Amount: The initial investment amount as well as the opening balance each
