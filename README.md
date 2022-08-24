@@ -20,3 +20,12 @@ shows what the user should see, and the second image shows the user’s values.
 
 ![image](https://user-images.githubusercontent.com/110702739/186437742-9c890af6-a736-4023-9ab9-9fd7124b91d0.png)
 
+2. When the user continues, the console should display two static reports. One should show the
+year-end balances and year-end earned interest if no additional monthly deposits are made. The
+second should show the year-end balances and year-end earned interest based on the monthly
+deposit value that was input by the user ($50.00 in this example). The following is an example of
+what your interface might look like. It is in no way representative of what it must look like. Be
+creative and keep the user experience in mind when designing your solution.
+
+![image](https://user-images.githubusercontent.com/110702739/186438480-4216ec85-24d0-4cef-baa0-5d6e0a9cb207.png)
+
