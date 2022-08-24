@@ -59,3 +59,6 @@ As an example, this chart illustrates how compound interest is calculated based 
 investment amount of $1.00 with additional monthly deposits of $50.00 at 5% interest over 5
 years.
 
+# Flowchard
+![image](https://user-images.githubusercontent.com/110702739/186440115-ef6e9875-0e02-4e64-99eb-56f6fc5e45d5.png)
+
