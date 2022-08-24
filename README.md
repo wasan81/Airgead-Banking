@@ -2,7 +2,7 @@
 
 # Airgead Banking App Functional Requirements
 1. Airgead Banking wants a screen to display with the following information:
-2. 
+
 • Initial Investment Amount: The starting amount of your investment (a positive real
 number)
 
