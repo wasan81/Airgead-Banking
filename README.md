@@ -29,3 +29,33 @@ creative and keep the user experience in mind when designing your solution.
 
 ![image](https://user-images.githubusercontent.com/110702739/186438480-4216ec85-24d0-4cef-baa0-5d6e0a9cb207.png)
 
+3. The user should be able to test different monthly deposit amounts, interest rates, and lengths of
+time to see how increases and decreases impact their investment growth
+
+4. Your code will need to account for the following:
+5. 
+a. Month: The number of months based on user input in the “Number of Years” field
+
+b. Opening Amount: The initial investment amount as well as the opening balance each
+month, which includes interest
+
+c. Deposited Amount: The dollar amount the user plans to deposit each month. This value
+will be the same every month for the duration of the investment.
+
+d. Total: The sum of the opening and deposited amounts
+
+e. Interest: Money earned based on the “annual interest” rate input by the user. The
+interest based on an opening amount of $1 and a deposited amount of $50 with an
+interest rate of 5% compounded monthly is:
+(Opening Amount + Deposited Amount) * ((Interest Rate/100)/12)
+OR
+(1 + 50) * ((5/100)/12)
+Note: Dividing by 100 converts the interest rate percentage to a decimal.
+Note: 12 is the number of months in a year. Dividing the yearly amount by twelve gives
+monthly compounded interest.
+
+f. Closing Balance: The sum of the total and interest amounts
+As an example, this chart illustrates how compound interest is calculated based on an initial
+investment amount of $1.00 with additional monthly deposits of $50.00 at 5% interest over 5
+years.
+
