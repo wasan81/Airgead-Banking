@@ -1,6 +1,7 @@
 # Airgead-Banking
-//Wasan Alabed
-// CS210 project 2
+Wasan Alabed
+
+CS210 project 2
 
 # Airgead Banking App Functional Requirements
 1. Airgead Banking wants a screen to display with the following information:
