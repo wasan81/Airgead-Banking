@@ -1,6 +1,4 @@
 #include "Account.h"
-
-
 Account::Account(string name, string address, int accountNumber, string accountType)
 {
 	this->name = name;
