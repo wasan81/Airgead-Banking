@@ -12,4 +12,6 @@ investment and its previously accumulated interest (interest on interest and pri
 • A way to see the data (for example: “Press any key to continue…”)
 It should look something like the images below, with the ability to accept input. The first image
 shows what the user should see, and the second image shows the user’s values.
-![image](https://user-images.githubusercontent.com/110702739/186437550-522786da-3972-4e5e-af6a-8c59a3f64692.png)
+
+![image](https://user-images.githubusercontent.com/110702739/186437742-9c890af6-a736-4023-9ab9-9fd7124b91d0.png)
+
