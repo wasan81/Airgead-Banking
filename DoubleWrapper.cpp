@@ -1,8 +1,6 @@
 #include "DoubleWrapper.h"
 #include <sstream>
 #include <vector>
-
-
 /*
 Constructor
 @param value - the value as a string (e.g. 3.14)
